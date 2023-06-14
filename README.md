@@ -1,4 +1,4 @@
-![text](https://github.com/Pisa-17/Pisa-17/assets/116753558/d1faaa0c-d8a2-4913-8185-07d24fe6076c)
+![text (1)](https://github.com/Pisa-17/Pisa-17/assets/116753558/fe30708d-a904-4686-ae23-53457283e9f1)
 
 
 <p><em>DAM Student <a href="https://twitter.com/lalaboralcifp?lang=es">CIFP La Laboral</a> 😊</br>
