@@ -31,8 +31,7 @@ const aboutMe = {
       
 ⭐️ Actualmente me encuentro estudiando ciberseguridad y sistemas linux en la academia <a href="Hack4u.io">Hack4u</a>
 
-⭐️ Actualmente me encuentro estudiando ciberseguridad y sistemas linux en la academia <a href="Hack4u.io">Hack4u</a>
----
+
 <!---
 Pisa-17/Pisa-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
