@@ -25,8 +25,8 @@ const aboutMe = {
 </br></br>
 <h2>💻 Some stats and personal info💻</h2>
 
-⭐️ He estudiado:
-      -CIFGS Sistemas de telecomunicaciones e informaticos
+⭐️ He estudiado:</br>
+      -CIFGS Sistemas de telecomunicaciones e informaticos</br>
       -CIFGS Desarrollo de aplicaciones Multiplataforma
       
 ⭐️ Actualmente me encuentro estudiando ciberseguridad y sistemas linux en la academia <a href="Hack4u.io">Hack4u</a>
