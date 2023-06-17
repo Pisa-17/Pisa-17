@@ -29,7 +29,7 @@ const aboutMe = {
       -CIFGS Sistemas de telecomunicaciones e informaticos</br>
       -CIFGS Desarrollo de aplicaciones Multiplataforma
       
-⭐️ Actualmente me encuentro estudiando ciberseguridad y sistemas linux en la academia <a href="Hack4u.io">Hack4u</a>
+⭐️ Actualmente me encuentro estudiando ciberseguridad y sistemas linux en la academia Hack4u de S4vitar
 
 
 <!---
