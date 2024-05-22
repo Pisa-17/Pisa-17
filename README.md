@@ -27,6 +27,9 @@ const aboutMe = {
 
 ⭐️ Technologies I know </br>
 <p align="center">
+     <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,html,css,docker,arch,idea,kali,linux,mysql,obsidian,spring,vim,latex" />
+  </a>
     [![My Skills](https://skillicons.dev/icons?i=java,cs,html,css,docker,arch,idea,kali,linux,mysql,obsidian,spring,vim,latex)](https://skillicons.dev)
 <p>
 
