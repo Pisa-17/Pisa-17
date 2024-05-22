@@ -20,7 +20,7 @@ const aboutMe = {
 
 ⭐️ He estudiado:</br>
       -CIFGS Sistemas de telecomunicaciones e informaticos :satellite:</br>
-      -CIFGS Desarrollo de aplicaciones Multiplataforma 💻
+      -CIFGS Desarrollo de aplicaciones Multiplataforma 💻</br>
       -Introduccion al Hacking Ético Hack4u :warning:
 
 ⭐️ Technologies I know </br>
@@ -28,7 +28,6 @@ const aboutMe = {
      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,html,css,docker,arch,idea,kali,linux,mysql,obsidian,spring,vim,latex" />
   </a>
-    [![My Skills](https://skillicons.dev/icons?i=java,cs,html,css,docker,arch,idea,kali,linux,mysql,obsidian,spring,vim,latex)](https://skillicons.dev)
 <p>
 
 <!---
