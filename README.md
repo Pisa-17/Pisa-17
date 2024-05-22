@@ -32,7 +32,7 @@ const aboutMe = {
 ⭐️ He realizado un curso de Hacking de 55 horas en la academia de S4vitar de Hack4u
 
 ⭐️ Technologies I know </br>
-    [![My Skills](https://skillicons.dev/icons?i=java,c#,chtml,css,docker,arch,idea,kali,linux,mysql,obsidian,spring,vim,latex)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,csharp,chtml,css,docker,arch,idea,kali,linux,mysql,obsidian,spring,vim,latex)](https://skillicons.dev)
 
 
 <!---
