@@ -21,12 +21,14 @@ const aboutMe = {
 ⭐️ He estudiado:</br>
       -CIFGS Sistemas de telecomunicaciones e informaticos</br>
       -CIFGS Desarrollo de aplicaciones Multiplataforma
+      -Introduccion al Hacking Ético Hack4u  [![My Skills](https://skillicons.dev/icons?i=kali,figma&theme=light)](https://skillicons.dev)
       
 ⭐️ He realizado un curso de Hacking de 55 horas en la academia de S4vitar de Hack4u
 
 ⭐️ Technologies I know </br>
+<p align="center">
     [![My Skills](https://skillicons.dev/icons?i=java,cs,html,css,docker,arch,idea,kali,linux,mysql,obsidian,spring,vim,latex)](https://skillicons.dev)
-
+<p>
 
 <!---
 Pisa-17/Pisa-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
