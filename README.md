@@ -19,11 +19,9 @@ const aboutMe = {
 <h2>💻 Some stats and personal info💻</h2>
 
 ⭐️ He estudiado:</br>
-      -CIFGS Sistemas de telecomunicaciones e informaticos</br>
-      -CIFGS Desarrollo de aplicaciones Multiplataforma
-      -Introduccion al Hacking Ético Hack4u
-      
-⭐️ He realizado un curso de Hacking de 55 horas en la academia de S4vitar de Hack4u
+      -CIFGS Sistemas de telecomunicaciones e informaticos :satellite:</br>
+      -CIFGS Desarrollo de aplicaciones Multiplataforma 💻
+      -Introduccion al Hacking Ético Hack4u :warning:
 
 ⭐️ Technologies I know </br>
 <p align="center">
