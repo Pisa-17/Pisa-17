@@ -7,7 +7,7 @@ Hola, soy Alejandro, tambien conocido como Pisa en redes sociales, normalmente m
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Bash, HTML, CSS, Python, Java],
+   code: [C#, Bash, HTML, CSS, Python, Java],
    technologies: {
       Linux: {
          -Ubuntu 
@@ -30,6 +30,9 @@ const aboutMe = {
       -CIFGS Desarrollo de aplicaciones Multiplataforma
       
 ⭐️ He realizado un curso de Hacking de 55 horas en la academia de S4vitar de Hack4u
+
+⭐️ My technologies
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker)](https://skillicons.dev)
 
 
 <!---
