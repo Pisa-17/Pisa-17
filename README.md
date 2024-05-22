@@ -1,6 +1,6 @@
 ![text (1)](https://github.com/Pisa-17/Pisa-17/assets/116753558/fe30708d-a904-4686-ae23-53457283e9f1)
 
-Hola, soy Alejandro, tambien conocido como Pisa en redes sociales, normalmente me puedes encontrar en linkedin o discord bajo el nombre de "pisadev92", tengo bastante interes en el sistema operativo de Linux y sus distribuciones asi como el desarollo de software en general, aunque la parte backend es mi favorita siendo honesto.
+Hola, soy Alejandro, tambien conocido como Pisa en redes sociales, normalmente me puedes encontrar en linkedin o discord bajo el nombre de "pisadev92", tengo bastante interes en Linux y sus distribuciones, sobre todo las basadas en Debian, asi como el desarollo de software en general, aunque el hacking ético es algo que me encanta.
 
 <p><em>DAM Student <a href="https://twitter.com/lalaboralcifp?lang=es">CIFP La Laboral</a> 😊</br>
 </em></p>
@@ -9,13 +9,6 @@ Hola, soy Alejandro, tambien conocido como Pisa en redes sociales, normalmente m
 const aboutMe = {
    code: [C#, Bash, HTML, CSS, Python, Java],
    technologies: {
-      Linux: {
-         -Ubuntu 
-         -Kali Linux
-         -Parrot OS Security
-         -Arch Linux
-         -Ubuntu Server
-       }
       databases: ["mySQL", "Oracle SQL Developer"]
    },
    currentOccupation: ["Estoy estudiando mi ultimo año, pero estoy abierto a ofertas de trabajo"],
