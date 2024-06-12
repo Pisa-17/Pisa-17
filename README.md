@@ -26,7 +26,7 @@ const aboutMe = {
 ⭐️ Technologies I know </br>
 <p align="center">
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,kotlin,html,css,docker,arch,kali,ubuntu,linux,windows,idea,androidstudio,mysql,obsidian,spring,dotnet,vim,neovim,latex" />
+    <img src="https://skillicons.dev/icons?i=java,cs,kotlin,html,css,docker,arch,debian,kali,ubuntu,linux,windows,idea,androidstudio,mysql,obsidian,spring,dotnet,vim,neovim,latex" />
   </a>
 <p>
 
