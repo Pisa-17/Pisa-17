@@ -18,12 +18,19 @@ const aboutMe = {
 </br></br>
 <h2>💻 Some stats and personal info💻</h2>
 
-⭐️ He estudiado:</br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pisa-17&theme=merko&locale=es" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pisa-17&layout=compact&langs_count=8&card_width=320&theme=merko&locale=es" />
+</a>
+
+<h3>⭐️ He estudiado:</h3>
       -CIFGS Sistemas de telecomunicaciones e informaticos :satellite:</br>
       -CIFGS Desarrollo de aplicaciones Multiplataforma 💻</br>
       -Introduccion al Hacking Ético Hack4u :warning:
 
-⭐️ Technologies I know </br>
+<h3>⭐️ Tecnologías que conozco: </h3>
 <p align="center">
      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,kotlin,html,css,docker,arch,debian,kali,ubuntu,linux,windows,idea,androidstudio,mysql,obsidian,spring,dotnet,vim,neovim,latex" />
