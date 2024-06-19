@@ -2,7 +2,6 @@
 
 Hola, soy Alejandro, tambien conocido como Pisa en redes sociales, normalmente me puedes encontrar en linkedin o discord bajo el nombre de "pisadev92", tengo bastante interes en Linux y sus distribuciones, sobre todo las basadas en Debian, asi como el desarollo de software en general, aunque el hacking ético es algo que me encanta.
 
-<p><em>DAM Student <a href="https://twitter.com/lalaboralcifp?lang=es">CIFP La Laboral</a> 😊</br>
 </em></p>
 
 ```javascript
@@ -11,7 +10,7 @@ const aboutMe = {
    technologies: {
       databases: ["mySQL", "Oracle SQL Developer"]
    },
-   currentOccupation: ["Estoy estudiando mi ultimo año, pero estoy abierto a ofertas de trabajo"],
+   currentOccupation: ["Estoy abierto a ofertas de trabajo actualmente"],
    Meta_principal: ["Mi meta principal es poder obtener el OSCP en un futuro no muy lejano"]
 };
 ```
